@@ -1,0 +1,65 @@
+{
+  "leadership": [
+    {"Role": "Founder Chairman", "Name": "Arutchelvar Dr. N. Mahalingam", "Qualification": "B.Sc., F.I.E.", "Details": "21 March 1923 – 2 October 2014. Founding visionary of MCET."},
+    {"Role": "Chairman", "Name": "Dr. M. Manickam", "Qualification": "M.Sc., MBA", "Details": "University of Michigan graduate. Doctor of Science (Honoris Causa), TNAU."},
+    {"Role": "Correspondent", "Name": "Shri. M. Hari Hara Sudhan", "Qualification": "B.E., MS", "Details": "Correspondent since November 2012."},
+    {"Role": "Secretary", "Name": "Dr. S.V. Subramanian", "Qualification": "MBA, Ph.D.", "Details": "Secretary of NIA Institutions; 25+ years HR & Admin."},
+    {"Role": "Principal", "Name": "Dr. P. Govindasamy", "Qualification": "B.E., M.E., Ph.D.", "Details": "Principal & Joint Secretary; 30+ years experience."},
+    {"Role": "Vice Principal", "Name": "Dr. A. Senthil Kumar", "Qualification": "B.E., M.E., Ph.D.", "Details": "VP for 11 years; Embedded Systems, VLSI Signal Processing."},
+    {"Role": "Dean – R&I", "Name": "Dr. S. Ramakrishnan", "Qualification": "B.E., M.E., Ph.D.", "Details": "Patent Agent IN/PA 6069; 25+ years research experience."}
+  ],
+  "department_heads": [
+    {"Department": "Computer Science and Engineering (CSE)", "HoD": "Dr. D. Sivaganesan"},
+    {"Department": "CSE – AI & ML", "HoD": "Dr. P. Vivekanandan"},
+    {"Department": "CSE – Cyber Security", "HoD": "Dr. K.N. Vijeyakumar"},
+    {"Department": "Artificial Intelligence and Data Science", "HoD": "Dr. N. Suba Rani"},
+    {"Department": "Electronics and Communication Engineering", "HoD": "Dr. V.K. Sudha"},
+    {"Department": "Electronics Engg. – VLSI Design & Technology", "HoD": "Dr. N. Saravanakumar"},
+    {"Department": "Electronics Comm. – Advanced Comm. Technology", "HoD": "Dr. V.K. Sudha"},
+    {"Department": "Electrical and Electronics Engineering", "HoD": "Dr. K. Vijayakumar"},
+    {"Department": "Mechanical Engineering", "HoD": "Dr. Rama Thirumurugan"},
+    {"Department": "Civil Engineering", "HoD": "Dr. P. S. Kothai"},
+    {"Department": "Automobile Engineering", "HoD": "Dr. D. Shanmugam"},
+    {"Department": "Information Technology", "HoD": "Dr. L. Meenachi"},
+    {"Department": "Computer Applications (MCA)", "HoD": "Dr. R. Muthusami"},
+    {"Department": "Science and Humanities", "HoD": "Dr. L. Chitra"}
+  ],
+  "courses": {
+    "undergraduate": [
+      {"Program": "B.E. Computer Science and Engineering", "Department URL": "drmcet.ac.in/computer-science-engineering/"},
+      {"Program": "B.E. CSE – AI & Machine Learning", "Department URL": "drmcet.ac.in/computer-science-and-engineering-aiml/"},
+      {"Program": "B.E. CSE – Cyber Security", "Department URL": "drmcet.ac.in/computer-science-and-engineering-cyber-security/"},
+      {"Program": "B.E. Artificial Intelligence and Data Science", "Department URL": "drmcet.ac.in/artificial-intelligence-data-science/"},
+      {"Program": "B.E. Electronics and Communication Engg.", "Department URL": "drmcet.ac.in/electronics-communication-engineering/"},
+      {"Program": "B.E. Electronics Engg. – VLSI Design & Tech.", "Department URL": "drmcet.ac.in/vlsi-design-technology/"},
+      {"Program": "B.E. Electronics Comm. – Adv. Comm. Tech.", "Department URL": "drmcet.ac.in/advanced-communication-technology/"},
+      {"Program": "B.E. Electrical and Electronics Engg.", "Department URL": "drmcet.ac.in/electrical-electronics-engineering/"},
+      {"Program": "B.E. Mechanical Engineering", "Department URL": "drmcet.ac.in/mechanical-engineering/"},
+      {"Program": "B.E. Civil Engineering", "Department URL": "drmcet.ac.in/civil-engineering/"},
+      {"Program": "B.E. Automobile Engineering", "Department URL": "drmcet.ac.in/automobile-engineering/"},
+      {"Program": "B.Tech. Information Technology", "Department URL": "drmcet.ac.in/information-technology/"}
+    ],
+    "postgraduate": [
+      {"Program": "M.E. CAD/CAM", "Department URL": ""},
+      {"Program": "M.E. Embedded System Technologies", "Department URL": ""},
+      {"Program": "M.E. Computer Science and Engineering", "Department URL": ""},
+      {"Program": "M.E. Communication Systems", "Department URL": ""},
+      {"Program": "M.E. Structural Engineering", "Department URL": ""},
+      {"Program": "MCA – Master of Computer Applications", "Department URL": "drmcet.ac.in/computer-applications/"}
+    ],
+    "doctoral": [
+      {"Program": "Ph.D. – Mechanical Engineering"},
+      {"Program": "Ph.D. – Electronics and Communication Engg."},
+      {"Program": "Ph.D. – Computer Science and Engineering"},
+      {"Program": "Ph.D. – Civil Engineering"},
+      {"Program": "Ph.D. – Information Technology"},
+      {"Program": "Ph.D. – Electrical and Electronics Engg."},
+      {"Program": "Ph.D. – Automobile Engineering"}
+    ]
+  },
+  "fees": [
+    {"Level": "B.E. / B.Tech", "Approx. Fees": "₹55,000–₹75,000/year (~₹2.2L total)", "Admission Basis": "TNEA / JEE Main", "Eligibility": "10+2 from recognized board"},
+    {"Level": "M.E. / M.Tech", "Approx. Fees": "< ₹2,00,000 total (unconfirmed)", "Admission Basis": "GATE / CEETA PG", "Eligibility": "Relevant Bachelor's, 50% aggregate"},
+    {"Level": "Lateral Entry B.Tech (IT)", "Approx. Fees": "₹1.5L total (3-year)", "Admission Basis": "—", "Eligibility": "Diploma in Engg. or B.Sc. with Math"}
+  ]
+}

@@ -1,0 +1,11 @@
+# Streamlit secrets
+.streamlit/
+secrets.toml
+
+# Python caching
+__pycache__/
+*.pyc
+
+# Local IDE/Gemini files
+.agents/
+.gemini/
