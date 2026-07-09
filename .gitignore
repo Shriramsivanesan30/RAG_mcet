@@ -9,3 +9,6 @@ __pycache__/
 # Local IDE/Gemini files
 .agents/
 .gemini/
+
+# ChromaDB local data
+chroma_db/
